@@ -1,5 +1,3 @@
-console.log('client side');
-
 
 document.addEventListener('DOMContentLoaded', ()=>{
     const weatherForm = document.querySelector('form')
